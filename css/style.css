@@ -21,7 +21,7 @@ h2 {
 	font-size: 34px;
 }
 h3, h4 {
-	color: #fbb32d;
+	color: #440066;
 	font-size: 20px;
 	font-weight: 600;
 }
@@ -89,7 +89,7 @@ hr {
 }
 .navbar-custom {
 	margin-bottom: 0;
-	background-color: #fbb32d;
+	background-color: #550080;
 	border-radius: 0px;
 	padding: 10px 0;
 }
@@ -147,20 +147,20 @@ hr {
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	color: #fff;
-	background-color: #fbb32d;
-	border-color: #fbb32d;
+	background-color: #550080;
+	border-color: #550080;
 }
 .btn-primary {
 	color: #fff;
-	background-color: #fbb32d;
+	background-color: #550080;
 	padding: 10px 20px;
-	border-color: #fbb32d;
+	border-color: #550080;
 	border-radius: 0;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active {
 	color: #fff;
-	background-color: #212f3c;
-	border-color: #212f3c;
+	background-color: #9900e6;
+	border-color: #9900e6;
 }
 .btn-primary i.fa {
 	margin-right: 10px;
@@ -173,7 +173,7 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/intro_bg_2.jpg) no-repeat center top;
+	background: url(../img/IMG_20190506_045449.jpg) no-repeat center top;
 	background-color: #304e6f;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -204,7 +204,7 @@ hr {
 /* Skills Section */
 #skills {
 	padding: 100px 0;
-	background: #212f3c;
+	background: #440066;
 }
 #skills h2 {
 	color: #fff;
@@ -237,7 +237,7 @@ hr {
 .percent {
 	display: inline-block;
 	font-size: 21px;
-	color: #fbb32d;
+	color: #440066;
 	line-height: 152px;
 	z-index: 2;
 }
@@ -270,12 +270,12 @@ ol.type li {
 	margin-left: 20px;
 }
 ol.type li a {
-	background: #212f3c;
+	background: #550080;
 	color: #fff;
 	padding: 6px 14px;
 }
 ol.type li a.active {
-	background: #fbb32d;
+	background: #212f3c;
 	color: #fff;
 }
 ol.type li a:hover {
@@ -382,7 +382,7 @@ ol.type li a:hover {
 /* Achivements Section */
 #achievements {
 	padding: 100px 0;
-	background: #212f3c;
+	background: #550080;
 }
 #achievements h2 {
 	color: #fff;
@@ -400,7 +400,7 @@ ol.type li a:hover {
 	font-size: 52px;
 	font-weight: 600;
 	display: block;
-	color: #fbb32d;
+	color: #ffffff;
 	padding: 0;
 	margin: 0;
 }
@@ -511,8 +511,8 @@ ol.type li a:hover {
 /* Contact Section */
 #contact {
 	padding: 100px 0 40px 0;
-	color: #fbb32d;
-	background: #212f3c;
+	color: #ffffff;
+	background: #550080;
 }
 #contact h2 {
 	color: #fff;
@@ -530,11 +530,11 @@ ol.type li a:hover {
 	padding: 30px 0;
 }
 #contact i.fa {
-	color: #fbb32d;
+	color: #ffffff;
 	margin-bottom: 10px;
 }
 #contact .text-danger {
-	color: #E87E04;
+	color: #ffffff;
 	text-align: left;
 }
 label {
@@ -549,7 +549,7 @@ label {
 	padding: 6px 12px;
 	font-size: 14px;
 	line-height: 1.42857143;
-	color: #2c3e50;
+	color: #ffffff;
 	background-color: rgba(255,255,255,0.8);
 	background-image: none;
 	border: 0;
@@ -592,7 +592,7 @@ color: #2c3e50;
 	transition: all 0.5s;
 }
 #contact .social i.fa:hover {
-	color: #fbb32d;
+	color: #ffffff;
 }
 #contact .btn {
 	background-color: transparent;
@@ -603,8 +603,8 @@ color: #2c3e50;
 	margin-top: 15px;
 }
 #contact .btn:hover, #contact .btn:focus {
-	background-color: #fbb32d;
-	border: 1px solid #fbb32d;
+	background-color: #ffffff;
+	border: 1px solid #ffffff;
 }
 .btn:active, .btn.active {
 	background-image: none;
@@ -618,18 +618,18 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer Section*/
 #footer {
-	background: #fbb32d;
-	color: #7d8384;
+	background: #eeccff;
+	color: #000000;
 	padding: 30px 0 25px 0;
 }
 #footer p {
 	font-size: 13px;
 }
 #footer a {
-	color: #a0a5a5;
+	color: #000000;
 }
 #footer a:hover {
-	color: #212f3c;
+	color: #550080;
 }
 
 /* Media Queries */
